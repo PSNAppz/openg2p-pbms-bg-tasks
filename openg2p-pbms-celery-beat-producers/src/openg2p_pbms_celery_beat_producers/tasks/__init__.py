@@ -1,0 +1,1 @@
+from .example_beat_task import example_beat_producer
